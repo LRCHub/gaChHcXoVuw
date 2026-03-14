@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "時には昔の話を",
+  "base_artist": "Tokiko Kato",
+  "createdAt": "2026-03-14T04:27:14.886597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "Azumi Inoue",
+      "has_synced": false,
+      "path": "select/01_時には昔の話を_Azumi_Inoue.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "杉田あきひろ",
+      "has_synced": false,
+      "path": "select/02_時には昔の話を_杉田あきひろ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "広橋真紀子",
+      "has_synced": false,
+      "path": "select/03_時には昔の話を_広橋真紀子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "Piano Master Feat. 島本須美",
+      "has_synced": false,
+      "path": "select/04_時には昔の話を_Piano_Master_Feat._島本須美.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "時には昔の話を (紅の豚)",
+      "artist": "日渡奈那",
+      "has_synced": false,
+      "path": "select/05_時には昔の話を_(紅の豚)_日渡奈那.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "日渡奈那",
+      "has_synced": false,
+      "path": "select/06_時には昔の話を_日渡奈那.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "加藤登紀子",
+      "has_synced": false,
+      "path": "select/07_時には昔の話を_加藤登紀子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "All That Jazz feat. Cosmic Home",
+      "has_synced": true,
+      "path": "select/08_時には昔の話を_All_That_Jazz_feat._Cosmic_Home.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "時には昔の話を - Toki Ni Ha Mukasi No Hanashi Wo",
+      "artist": "All That Jazz",
+      "has_synced": true,
+      "path": "select/09_時には昔の話を_-_Toki_Ni_Ha_Mukasi_No_Hanashi_Wo_All_That_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "時には昔の話を（紅の豚）",
+      "artist": "Tokito Kato",
+      "has_synced": false,
+      "path": "select/10_時には昔の話を(紅の豚)_Tokito_Kato.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "竹仲絵里",
+      "has_synced": true,
+      "path": "select/11_時には昔の話を_竹仲絵里.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "時には昔の話を",
+      "artist": "ALL THAT JAZZ",
+      "has_synced": true,
+      "path": "select/12_時には昔の話を_ALL_THAT_JAZZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_01_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_02_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_03_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_04_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_05_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_06_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_07_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_08_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_09_時には昔の話を_加藤_登紀子.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "時には昔の話を",
+      "artist": "加藤 登紀子",
+      "has_synced": false,
+      "path": "select/pl_10_時には昔の話を_加藤_登紀子.txt"
+    }
+  ]
+}
